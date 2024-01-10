@@ -1,2 +1,2 @@
 # DynatronCustomerCRUD
-.NET Backend repository for simple CRUD application for a basic "Customer" service
+.NET Backend repository for a simple CRUD application facilitating basic "Customer" services.
